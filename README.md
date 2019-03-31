@@ -1,10 +1,9 @@
-# Regras
-Até à data do Hackathon, qualquer atividade por parte dos concorrentes será inválida. No dia do Hackathon, o repositório será limpo para preparação para a competição.
+# Detour - Flutter Turism App
 
-Durante a prova, existirão três checkpoints onde a equipa deverá obrigatoriamente empurrar o estado atual do projeto para o repositório. Estes ocorrerão às 17:00h, às 01:00h e às 10:00h. Os membros do NINF irão alertar para o efeito, mas é vital que a equipa tenha tudo preparado para ser empurrado aquando do momento. Para tal, é recomendado que a equipa faça pequenas contribuições dos seus progressos no decorrer do Hackathon.
+Project created during an Hackathon, at FCT-UNL (2019), where I was the solo developer of this app's code, while my team worked on design, research and functionality. Detour is a targeted to those who look for interesting spots or small trips nearby but outside big citys. It's purpose was to satisfy the need of spreading awareness for the smaller points of interest in our country, which only a few people usually enjoy and know of.
 
-# SegmentationFault
-### Tiago Filipe Cabral Marques
-### Carolina Bandeira Luís Vieira
-### Francisco Luís Pedro da Silva
-### Alexandre Miguel Manta da Costa
+# SegmentationFault - Team's Name
+### Tiago Filipe Cabral Marques (Lead Developer)
+### Carolina Bandeira Luís Vieira (Designer)
+### Francisco Luís Pedro da Silva (Designer/Functionality) 
+### Alexandre Miguel Manta da Costa (Designer/Research)
