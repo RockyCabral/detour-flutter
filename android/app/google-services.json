@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "761794627976",
+    "firebase_url": "https://detour-46ec3.firebaseio.com",
+    "project_id": "detour-46ec3",
+    "storage_bucket": "detour-46ec3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761794627976:android:0f2ebf960f35b837",
+        "android_client_info": {
+          "package_name": "com.example.detour_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761794627976-d27c1cn79sbbsv16cil9k5aq8eor7r3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.detour_project",
+            "certificate_hash": "e7a65e205262629424d7f25b8509bdde004bfb4b"
+          }
+        },
+        {
+          "client_id": "761794627976-27mq8tok0j79g5pdrb4o4r4uqik0tdch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBITLT9IX9pmI4LYa5mQ1djHvIwvqQkuMA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761794627976-27mq8tok0j79g5pdrb4o4r4uqik0tdch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
